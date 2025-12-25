@@ -86,7 +86,9 @@ def analyze_gradient_covariance(image_path):
     print("-" * 30)
 
 # analyze_gradient_covariance('imgs/sunset_real.jpg')
-analyze_gradient_covariance('imgs/sunset_nanobanana_ai.png')
+# analyze_gradient_covariance('imgs/real1.jpg')
+# analyze_gradient_covariance('imgs/sunset_nanobanana_ai.png')
+analyze_gradient_covariance('imgs/nanobanana_ai1.png')
 
 
 
